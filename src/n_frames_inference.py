@@ -89,6 +89,7 @@ class MyRPN(detectron2.modeling.proposal_generator.rpn.StandardRPNHead):
         return pred_objectness_logits, pred_anchor_deltas
 
 
+# Calculate distance
 def get_dist(p1, p2):
     return math.sqrt((p1[0] - p2[0])**2 + (p1[1] - p2[1])**2)
 
