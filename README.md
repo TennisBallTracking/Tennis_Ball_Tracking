@@ -4,3 +4,7 @@
 * The model for the three-frame detection can be downloaded from [here](https://drive.google.com/file/d/1-laZJtwzTkGMJv5q7e-MAjShDJiYbUqB/view?usp=sharing), and saved at **models/spatial_temporal_models**  
 * The model for the five-frame detection can be downloaded from [here](https://drive.google.com/file/d/1R6PNKrFwL4ZPhR2wJNqpNJh0OXc477Cd/view?usp=sharing), and saved at **models/spatial_temporal_models**  
 * The model for the seven-frame detection can be downloaded from [here](https://drive.google.com/file/d/1B2Fn74gqOsID3Ym55uG2-PTwtjaHD59R/view?usp=sharing), and saved at **models/spatial_temporal_models**  
+
+
+# Soccer ball tracking
+* The training and testing images, csv files, python scripts and trained model weights can be downloaded from [here](https://drive.google.com/file/d/1IZ9RJTUu6pnPT3reZWfpe-v2BwfVdsDw/view?usp=sharing). The whole dataset is about 3.8GB.
