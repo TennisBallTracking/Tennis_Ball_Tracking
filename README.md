@@ -8,3 +8,5 @@
 
 # Soccer ball tracking
 * The training and testing images, csv files, python scripts and trained model weights can be downloaded from [here](https://drive.google.com/file/d/1IZ9RJTUu6pnPT3reZWfpe-v2BwfVdsDw/view?usp=sharing). The whole dataset is about 3.8GB.
+* An example of automatic soccer ball tracking:
+https://github.com/TennisBallTracking/Tennis_Ball_Tracking/blob/main/m-905-290000-323330.mp4
