@@ -1,5 +1,5 @@
 # Tennis_Ball_Tracking
-![tennis-demo](https://github.com/TennisBallTracking/Tennis_Ball_Tracking/blob/main/demo_videos/tennis-demo.gif)
+![tennis-demo](https://github.com/TennisBallTracking/Tennis_Ball_Tracking/blob/main/demo_videos/tennis-ball-demo.gif)
 * The training images can be downloaded from [here](https://mega.nz/file/gF9mBbyK#cQwSaVrrG0EDAnN_l1svjfcHn02be_c-W4g5UBLth5I). The whole dataset is about 20GB.  
 * The models for the single-frame detection can be downloaded from [here](https://drive.google.com/file/d/1PNug-KgwoD9mWWg1g8RoCVdF4HQQh8cm/view?usp=sharing), and saved at **models/single_image_models**  
 * The model for the three-frame detection can be downloaded from [here](https://drive.google.com/file/d/1-laZJtwzTkGMJv5q7e-MAjShDJiYbUqB/view?usp=sharing), and saved at **models/spatial_temporal_models**  
